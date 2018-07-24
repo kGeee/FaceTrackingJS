@@ -131,7 +131,8 @@
 
 
                 brfv4Example.dom.updateHeadline("SMILE FOR THE CAMERA smile factor: " +
-                    (smileFactor * 100).toFixed(0) + "%" + (_blinked ? "Yes" : "No"));
+
+                if(smileFactor == 1.0 && _blinked){
 
                 if(smileFactor == 1.0 && _blinked){
 

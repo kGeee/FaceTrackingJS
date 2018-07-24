@@ -21,8 +21,13 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="300">
               <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+=======
+            <state relative-caret-position="270">
+              <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+>>>>>>> parent of 6223864... reduced smile level
 =======
             <state relative-caret-position="270">
               <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
@@ -158,8 +163,13 @@
         <entry file="file://$PROJECT_DIR$/js/examples/face_tracking/smile_detection.js">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="423">
               <caret line="146" column="67" selection-start-line="146" selection-start-column="67" selection-end-line="146" selection-end-column="67" />
+=======
+            <state relative-caret-position="303">
+              <caret line="135" column="16" selection-start-line="135" selection-start-column="16" selection-end-line="143" selection-end-column="16" />
+>>>>>>> parent of 6223864... reduced smile level
 =======
             <state relative-caret-position="303">
               <caret line="135" column="16" selection-start-line="135" selection-start-column="16" selection-end-line="143" selection-end-column="16" />
@@ -279,7 +289,11 @@
       <option name="presentableId" value="Default" />
       <updated>1532031238446</updated>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1532031239986" duration="5012000" />
+=======
+      <workItem from="1532031239986" duration="291000" />
+>>>>>>> parent of 6223864... reduced smile level
 =======
       <workItem from="1532031239986" duration="291000" />
 >>>>>>> parent of 6223864... reduced smile level
@@ -288,7 +302,11 @@
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="5012000" />
+=======
+    <option name="totallyTimeSpent" value="291000" />
+>>>>>>> parent of 6223864... reduced smile level
 =======
     <option name="totallyTimeSpent" value="291000" />
 >>>>>>> parent of 6223864... reduced smile level
@@ -331,8 +349,11 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/js/examples/face_tracking/restrict_to_center.js">
 =======
+=======
+>>>>>>> parent of 6223864... reduced smile level
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -355,6 +376,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -475,6 +497,12 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/js/examples/face_tracking/smile_detection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="135" column="16" selection-start-line="135" selection-start-column="16" selection-end-line="143" selection-end-column="16" />
+>>>>>>> parent of 6223864... reduced smile level
 =======
     <entry file="file://$PROJECT_DIR$/js/examples/face_tracking/smile_detection.js">
       <provider selected="true" editor-type-id="text-editor">
