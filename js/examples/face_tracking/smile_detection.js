@@ -137,12 +137,16 @@
 
 
 
-                    window.location.href = "\smile.html";
-
+                    brfv4Example.dom.updateHeadline("Welcome to the puzzle... Frown to continue.");
 
 
                 }
 
+
+                if(smileFactor == 0 ){
+                    brfv4Example.dom.updateHeadline("Dont be sad :("));
+
+            }
 
                 storeFaceShapeVertices(v);
 			}
