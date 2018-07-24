@@ -145,6 +145,8 @@
                 smile = true;
                 if(smileFactor < 0.25 && smile){
                     brfv4Example.dom.updateHeadline("Welcome to your doom..........");
+                    var but = document.getElementById("reloc");
+                    but.style.display = "block";
                 }
 
 
