@@ -133,6 +133,7 @@
                 brfv4Example.dom.updateHeadline("SMILE AND CLOSE YOUR EYES FOR THE CAMERA smile factor: " +
                     (smileFactor * 100).toFixed(0) + "% Blink?" + (_blinked ? "Yes" : "No"));
 
+<<<<<<< HEAD
                 if(smileFactor > 0.75 && _blinked){
 
 
@@ -142,6 +143,17 @@
 
 
                 }
+=======
+                // if(smileFactor == 1.0 && _blinked){
+                //
+                //
+                //
+                //     window.location.href = "\smile.html";
+                //
+                //
+                //
+                // }
+>>>>>>> parent of 143ad28... Smile and blink = redirect
 
 
                 storeFaceShapeVertices(v);
