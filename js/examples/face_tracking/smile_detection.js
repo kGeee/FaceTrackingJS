@@ -130,39 +130,26 @@
                 draw.drawVertices(	face.vertices, 2.0, false, color, 0.4);
 
 
-                brfv4Example.dom.updateHeadline("SMILE AND CLOSE YOUR EYES FOR THE CAMERA smile factor: " +
-                    (smileFactor * 100).toFixed(0) + "% Blink?" + (_blinked ? "Yes" : "No"));
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-                if(smileFactor > 0.75 && _blinked){
 
 
 
-                    window.location.href = "\smile.html";
+                var smile = false;
+
+                if(smileFactor > 0.75 && !smile){
 
 
+
+                    brfv4Example.dom.updateHeadline("You smiled! Welcome to the game... Frown to continue");
 
                 }
-=======
-=======
->>>>>>> parent of 143ad28... Smile and blink = redirect
-                // if(smileFactor == 1.0 && _blinked){
-                //
-                //
-                //
-                //     window.location.href = "\smile.html";
-                //
-                //
-                //
-                // }
-<<<<<<< HEAD
->>>>>>> parent of 143ad28... Smile and blink = redirect
-=======
->>>>>>> parent of 143ad28... Smile and blink = redirect
+                smile = true;
+                if(smileFactor < 0.25 && smile){
+                    brfv4Example.dom.updateHeadline("Welcome to your doom..........");
+                }
 
 
-                storeFaceShapeVertices(v);
+
+        storeFaceShapeVertices(v);
 			}
 		}
 	};
