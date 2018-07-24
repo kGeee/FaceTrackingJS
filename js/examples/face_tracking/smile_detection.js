@@ -134,6 +134,7 @@
                     (smileFactor * 100).toFixed(0) + "% Blink?" + (_blinked ? "Yes" : "No"));
 
 <<<<<<< HEAD
+<<<<<<< HEAD
                 if(smileFactor > 0.75 && _blinked){
 
 
@@ -144,6 +145,8 @@
 
                 }
 =======
+=======
+>>>>>>> parent of 143ad28... Smile and blink = redirect
                 // if(smileFactor == 1.0 && _blinked){
                 //
                 //
@@ -153,6 +156,9 @@
                 //
                 //
                 // }
+<<<<<<< HEAD
+>>>>>>> parent of 143ad28... Smile and blink = redirect
+=======
 >>>>>>> parent of 143ad28... Smile and blink = redirect
 
 

@@ -3,8 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="d5556bb5-c69c-4928-9b2b-e37a77d83dda" name="Default" comment="">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/examples/face_tracking/smile_detection.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/examples/face_tracking/smile_detection.js" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+>>>>>>> parent of 143ad28... Smile and blink = redirect
 =======
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
 >>>>>>> parent of 143ad28... Smile and blink = redirect
@@ -24,6 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -183,6 +188,10 @@
             <state relative-caret-position="105">
               <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
 >>>>>>> parent of 143ad28... Smile and blink = redirect
+=======
+            <state relative-caret-position="105">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+>>>>>>> parent of 143ad28... Smile and blink = redirect
             </state>
           </provider>
         </entry>
@@ -206,9 +215,12 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/js/examples/face_tracking/smile_detection.js" />
         <option value="$PROJECT_DIR$/js/BRFv4Demo.js" />
         <option value="$PROJECT_DIR$/js/utils/BRFv4SetupExample.js" />
+=======
+>>>>>>> parent of 143ad28... Smile and blink = redirect
 =======
 >>>>>>> parent of 143ad28... Smile and blink = redirect
       </list>
@@ -225,8 +237,13 @@
   </component>
   <component name="ProjectFrameBounds">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="x" value="476" />
     <option name="y" value="-1294" />
+=======
+    <option name="x" value="128" />
+    <option name="y" value="-1088" />
+>>>>>>> parent of 143ad28... Smile and blink = redirect
 =======
     <option name="x" value="128" />
     <option name="y" value="-1088" />
@@ -246,6 +263,7 @@
               <item name="FaceTracking" type="b2602c69:ProjectViewProjectNode" />
               <item name="FaceTracking" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
 <<<<<<< HEAD
             <path>
               <item name="FaceTracking" type="b2602c69:ProjectViewProjectNode" />
@@ -271,6 +289,8 @@
               <item name="js" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+>>>>>>> parent of 143ad28... Smile and blink = redirect
 =======
 >>>>>>> parent of 143ad28... Smile and blink = redirect
           </expand>
@@ -311,6 +331,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1532031239986" duration="5012000" />
 =======
       <workItem from="1532031239986" duration="291000" />
@@ -321,10 +342,14 @@
 =======
       <workItem from="1532031239986" duration="176000" />
 >>>>>>> parent of 143ad28... Smile and blink = redirect
+=======
+      <workItem from="1532031239986" duration="176000" />
+>>>>>>> parent of 143ad28... Smile and blink = redirect
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -339,10 +364,15 @@
   <component name="ToolWindowManager">
     <frame x="476" y="-1294" width="1636" height="1339" extended-state="0" />
 =======
+=======
+>>>>>>> parent of 143ad28... Smile and blink = redirect
     <option name="totallyTimeSpent" value="176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="128" y="-1088" width="1636" height="1339" extended-state="0" />
+<<<<<<< HEAD
+>>>>>>> parent of 143ad28... Smile and blink = redirect
+=======
 >>>>>>> parent of 143ad28... Smile and blink = redirect
     <editor active="true" />
     <layout>
@@ -387,6 +417,7 @@
 >>>>>>> parent of 6223864... reduced smile level
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
         <state relative-caret-position="270">
           <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
@@ -541,6 +572,10 @@
         <state relative-caret-position="303">
           <caret line="135" column="16" selection-start-line="135" selection-start-column="16" selection-end-line="143" selection-end-column="16" />
 >>>>>>> parent of 6223864... reduced smile level
+=======
+        <state relative-caret-position="105">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+>>>>>>> parent of 143ad28... Smile and blink = redirect
 =======
         <state relative-caret-position="105">
           <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
