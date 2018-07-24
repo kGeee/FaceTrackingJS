@@ -25,6 +25,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< master
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -162,16 +163,21 @@
       </file>
       <file leaf-file-name="restrict_to_center.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/examples/face_tracking/restrict_to_center.js">
+=======
+      <file leaf-file-name="smile_detection.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/examples/face_tracking/smile_detection.js">
+>>>>>>> added paragraph
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="45" lean-forward="true" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+            <state relative-caret-position="2490">
+              <caret line="166" lean-forward="true" selection-start-line="166" selection-end-line="166" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="smile_detection.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/examples/face_tracking/smile_detection.js">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< master
 <<<<<<< HEAD
 <<<<<<< HEAD
             <state relative-caret-position="423">
@@ -192,15 +198,19 @@
             <state relative-caret-position="105">
               <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
 >>>>>>> parent of 143ad28... Smile and blink = redirect
+=======
+            <state relative-caret-position="3060">
+              <caret line="204" column="3" lean-forward="true" selection-start-line="204" selection-start-column="3" selection-end-line="204" selection-end-column="3" />
+>>>>>>> added paragraph
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="face_texture_overlay.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/face_texture_overlay.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="480">
+              <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -256,6 +266,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -263,6 +274,7 @@
               <item name="FaceTracking" type="b2602c69:ProjectViewProjectNode" />
               <item name="FaceTracking" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< master
 <<<<<<< HEAD
 <<<<<<< HEAD
             <path>
@@ -293,11 +305,12 @@
 >>>>>>> parent of 143ad28... Smile and blink = redirect
 =======
 >>>>>>> parent of 143ad28... Smile and blink = redirect
+=======
+>>>>>>> added paragraph
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -349,6 +362,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< master
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -374,9 +388,15 @@
 >>>>>>> parent of 143ad28... Smile and blink = redirect
 =======
 >>>>>>> parent of 143ad28... Smile and blink = redirect
+=======
+    <option name="totallyTimeSpent" value="3965000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="833" y="-1339" width="1279" height="1339" extended-state="0" />
+>>>>>>> added paragraph
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31978106" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -390,9 +410,11 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -402,6 +424,30 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/readme_img.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3060">
+          <caret line="204" column="3" lean-forward="true" selection-start-line="204" selection-start-column="3" selection-end-line="204" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/examples/face_tracking/smile_detection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="149" column="17" lean-forward="true" selection-start-line="149" selection-start-column="17" selection-end-line="149" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/face_texture_overlay.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -417,10 +463,15 @@
 >>>>>>> parent of 6223864... reduced smile level
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< master
 <<<<<<< HEAD
 <<<<<<< HEAD
         <state relative-caret-position="270">
           <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+=======
+        <state relative-caret-position="2490">
+          <caret line="166" lean-forward="true" selection-start-line="166" selection-end-line="166" />
+>>>>>>> added paragraph
         </state>
       </provider>
     </entry>
@@ -563,6 +614,7 @@
 =======
     <entry file="file://$PROJECT_DIR$/js/examples/face_tracking/smile_detection.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< master
         <state relative-caret-position="303">
           <caret line="135" column="16" selection-start-line="135" selection-start-column="16" selection-end-line="143" selection-end-column="16" />
 >>>>>>> parent of 6223864... reduced smile level
@@ -580,6 +632,10 @@
         <state relative-caret-position="105">
           <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
 >>>>>>> parent of 143ad28... Smile and blink = redirect
+=======
+        <state relative-caret-position="480">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+>>>>>>> added paragraph
         </state>
       </provider>
     </entry>
