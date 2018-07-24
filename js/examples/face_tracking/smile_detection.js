@@ -64,7 +64,7 @@
 
 
 
-
+				// if 100% smiling
 
                 // simple blink detection
 
@@ -130,10 +130,10 @@
                 draw.drawVertices(	face.vertices, 2.0, false, color, 0.4);
 
 
-                brfv4Example.dom.updateHeadline("SMILE AND CLOSE YOUR EYES FOR THE CAMERA smile factor: " +
-                    (smileFactor * 100).toFixed(0) + "% Blink?" + (_blinked ? "Yes" : "No"));
+                brfv4Example.dom.updateHeadline("SMILE FOR THE CAMERA smile factor: " +
+                    (smileFactor * 100).toFixed(0) + "%" + (_blinked ? "Yes" : "No"));
 
-                if(smileFactor > 0.75 && _blinked){
+                if(smileFactor == 1.0 && _blinked){
 
 
 
@@ -188,7 +188,8 @@
     var _blinked		= false;
     var _timeOut		= -1;
 
-	brfv4Example.dom.updateHeadline("Smile and blink to get to the next page");
+	brfv4Example.dom.updateHeadline("BRFv4 - intermediate - face tracking - simple smile " +
+		"detection.\nDetects how much someone is smiling.");
 
 	brfv4Example.dom.updateCodeSnippet(exampleCode + "");
 })();
