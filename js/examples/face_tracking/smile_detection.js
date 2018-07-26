@@ -133,17 +133,17 @@
 
 
 
-                var smile = false;
-
-                if(smileFactor > 0.75 && !smile){
 
 
+                if(smileFactor > 0.5){
 
-                    brfv4Example.dom.updateHeadline("You smiled! Welcome to the game... Frown to continue");
+
+
+                    brfv4Example.dom.updateHeadline("You smiled! Welcome to the game...");
 
                 }
-                smile = true;
-                if(smileFactor < 0.25 && smile){
+
+                if(smileFactor < 0.01){
                     brfv4Example.dom.updateHeadline("Welcome to your doom..........");
                     var but = document.getElementById("reloc");
                     but.style.display = "block";
@@ -157,6 +157,9 @@
 	};
 
 
+	function createTask(){
+	    smile=false;
+    }
 
 
 
@@ -191,7 +194,7 @@
     var _blinked		= false;
     var _timeOut		= -1;
 
-	brfv4Example.dom.updateHeadline("Smile and blink to get to the next page");
+	brfv4Example.dom.updateHeadline("Smile");
 
 	brfv4Example.dom.updateCodeSnippet(exampleCode + "");
 })();
