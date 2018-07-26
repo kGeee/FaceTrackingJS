@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="d5556bb5-c69c-4928-9b2b-e37a77d83dda" name="Default" comment="" />
+=======
+    <list default="true" id="d5556bb5-c69c-4928-9b2b-e37a77d83dda" name="Default" comment="">
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/examples/face_tracking/smile_detection.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/examples/face_tracking/smile_detection.js" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+>>>>>>> parent of 143ad28... Smile and blink = redirect
+=======
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+>>>>>>> parent of 143ad28... Smile and blink = redirect
+    </list>
+>>>>>>> 706684e0eb2f1237ac4903f30e07debedbc08d1a
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,8 +29,157 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
       <file leaf-file-name="smile_detection.js" pinned="false" current-in-tab="true">
+=======
+<<<<<<< HEAD
+<<<<<<< master
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+            <state relative-caret-position="300">
+              <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+=======
+            <state relative-caret-position="270">
+              <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+>>>>>>> parent of 6223864... reduced smile level
+=======
+            <state relative-caret-position="270">
+              <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+>>>>>>> parent of 6223864... reduced smile level
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BRFv4Demo.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/BRFv4Demo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="124" column="37" selection-start-line="124" selection-start-column="37" selection-end-line="124" selection-end-column="37" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BRFv4SetupExample.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/utils/BRFv4SetupExample.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="821">
+              <caret line="175" column="41" selection-start-line="175" selection-end-line="176" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JavaScript-modules-diagram//Users/kevin_george/Desktop/FaceTracking/FaceTracking" pinned="false" current-in-tab="false">
+        <entry file="uml://JavaScript-modules-diagram//Users/kevin_george/Desktop/FaceTracking/FaceTracking">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JavaScript-modules-diagram</ID>
+              <OriginalElement>$PROJECT_DIR$</OriginalElement>
+              <nodes>
+                <node x="0.0" y="690.0">$PROJECT_DIR$/js/BRFv4Demo.js</node>
+                <node x="0.0" y="286.0">$PROJECT_DIR$/js/BRFv4DemoMinimalImage.js</node>
+                <node x="450.0" y="285.0">$PROJECT_DIR$/js/BRFv4DemoMinimalWebcam.js</node>
+                <node x="262.0" y="319.0">$PROJECT_DIR$/js/utils/BRFv4Stats.js</node>
+                <node x="175.0" y="637.0">$PROJECT_DIR$/css/brfv4_examples_theme.css</node>
+                <node x="728.0" y="0.0">$PROJECT_DIR$/assets/brfv4_face_textures.js</node>
+                <node x="429.0" y="0.0">$PROJECT_DIR$/assets/brfv4_lion.png</node>
+                <node x="112.0" y="563.0">$PROJECT_DIR$/assets/brfv4_women_young.jpg</node>
+                <node x="796.0" y="178.0">$PROJECT_DIR$/face_texture_overlay.html</node>
+                <node x="152.0" y="763.0">$PROJECT_DIR$/index.html</node>
+                <node x="105.0" y="414.0">$PROJECT_DIR$/minimalImage.html</node>
+                <node x="374.0" y="406.0">$PROJECT_DIR$/minimalWebcam.html</node>
+                <node x="398.0" y="119.0">$PROJECT_DIR$/minimalWebcamPNGOverlay.html</node>
+                <node x="208.0" y="888.0">$PROJECT_DIR$/js/libs/createjs/preloadjs.min.js</node>
+                <node x="951.0" y="284.0">#</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="$PROJECT_DIR$/minimalWebcam.html" target="$PROJECT_DIR$/js/BRFv4DemoMinimalWebcam.js">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="$PROJECT_DIR$/face_texture_overlay.html" target="$PROJECT_DIR$/assets/brfv4_face_textures.js">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="$PROJECT_DIR$/minimalWebcamPNGOverlay.html" target="$PROJECT_DIR$/js/BRFv4DemoMinimalWebcam.js">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="$PROJECT_DIR$/minimalWebcam.html" target="$PROJECT_DIR$/js/utils/BRFv4Stats.js">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="$PROJECT_DIR$/index.html" target="$PROJECT_DIR$/css/brfv4_examples_theme.css">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="$PROJECT_DIR$/minimalWebcamPNGOverlay.html" target="$PROJECT_DIR$/assets/brfv4_lion.png">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="$PROJECT_DIR$/minimalImage.html" target="$PROJECT_DIR$/assets/brfv4_women_young.jpg">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="$PROJECT_DIR$/minimalImage.html" target="$PROJECT_DIR$/js/BRFv4DemoMinimalImage.js">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="$PROJECT_DIR$/index.html" target="$PROJECT_DIR$/js/BRFv4Demo.js">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="$PROJECT_DIR$/index.html" target="$PROJECT_DIR$/js/libs/createjs/preloadjs.min.js">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="$PROJECT_DIR$/minimalWebcamPNGOverlay.html" target="$PROJECT_DIR$/js/utils/BRFv4Stats.js">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="$PROJECT_DIR$/minimalImage.html" target="$PROJECT_DIR$/js/utils/BRFv4Stats.js">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="$PROJECT_DIR$/face_texture_overlay.html" target="#">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="119.0" y="92.0" />
+              <SelectedNodes>
+                <node>$PROJECT_DIR$/assets/brfv4_women_young.jpg</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>All</Category>
+              </Categories>
+              <VISIBILITY>Details</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="restrict_to_center.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/examples/face_tracking/restrict_to_center.js">
+=======
+      <file leaf-file-name="smile_detection.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/examples/face_tracking/smile_detection.js">
+>>>>>>> added paragraph
+=======
+      <file leaf-file-name="smile_detection.js" pinned="false" current-in-tab="false">
+>>>>>>> 706684e0eb2f1237ac4903f30e07debedbc08d1a
+        <entry file="file://$PROJECT_DIR$/js/examples/face_tracking/smile_detection.js">
+>>>>>>> development
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="783">
               <caret line="166" lean-forward="true" selection-start-line="166" selection-end-line="166" />
@@ -26,8 +190,36 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+<<<<<<< master
+<<<<<<< HEAD
+<<<<<<< HEAD
+            <state relative-caret-position="423">
+              <caret line="146" column="67" selection-start-line="146" selection-start-column="67" selection-end-line="146" selection-end-column="67" />
+=======
+            <state relative-caret-position="303">
+              <caret line="135" column="16" selection-start-line="135" selection-start-column="16" selection-end-line="143" selection-end-column="16" />
+>>>>>>> parent of 6223864... reduced smile level
+=======
+            <state relative-caret-position="303">
+              <caret line="135" column="16" selection-start-line="135" selection-start-column="16" selection-end-line="143" selection-end-column="16" />
+>>>>>>> parent of 6223864... reduced smile level
+=======
+            <state relative-caret-position="105">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+>>>>>>> parent of 143ad28... Smile and blink = redirect
+=======
+            <state relative-caret-position="105">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+>>>>>>> parent of 143ad28... Smile and blink = redirect
+=======
             <state relative-caret-position="3060">
               <caret line="204" column="3" lean-forward="true" selection-start-line="204" selection-start-column="3" selection-end-line="204" selection-end-column="3" />
+>>>>>>> added paragraph
+=======
+            <state relative-caret-position="3060">
+              <caret line="204" column="3" lean-forward="true" selection-start-line="204" selection-start-column="3" selection-end-line="204" selection-end-column="3" />
+>>>>>>> development
             </state>
           </provider>
         </entry>
@@ -49,8 +241,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js/examples/face_tracking/smile_detection.js" />
         <option value="$PROJECT_DIR$/index.html" />
+<<<<<<< HEAD
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/js/examples/face_tracking/smile_detection.js" />
+        <option value="$PROJECT_DIR$/js/BRFv4Demo.js" />
+        <option value="$PROJECT_DIR$/js/utils/BRFv4SetupExample.js" />
+=======
+>>>>>>> parent of 143ad28... Smile and blink = redirect
+=======
+>>>>>>> parent of 143ad28... Smile and blink = redirect
       </list>
     </option>
   </component>
@@ -64,9 +264,25 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="647" />
     <option name="y" value="-1417" />
     <option name="width" value="1279" />
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <option name="x" value="476" />
+    <option name="y" value="-1294" />
+=======
+    <option name="x" value="128" />
+    <option name="y" value="-1088" />
+>>>>>>> parent of 143ad28... Smile and blink = redirect
+=======
+    <option name="x" value="128" />
+    <option name="y" value="-1088" />
+>>>>>>> parent of 143ad28... Smile and blink = redirect
+    <option name="width" value="1636" />
+>>>>>>> 706684e0eb2f1237ac4903f30e07debedbc08d1a
     <option name="height" value="1339" />
   </component>
   <component name="ProjectView">
@@ -82,6 +298,42 @@
               <item name="FaceTracking" type="b2602c69:ProjectViewProjectNode" />
               <item name="FaceTracking" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+<<<<<<< master
+<<<<<<< HEAD
+<<<<<<< HEAD
+            <path>
+              <item name="FaceTracking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FaceTracking" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FaceTracking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FaceTracking" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FaceTracking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FaceTracking" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="face_tracking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FaceTracking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FaceTracking" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+=======
+>>>>>>> parent of 143ad28... Smile and blink = redirect
+=======
+>>>>>>> parent of 143ad28... Smile and blink = redirect
+=======
+>>>>>>> added paragraph
+=======
+>>>>>>> development
           </expand>
           <select />
         </subPane>
@@ -116,15 +368,73 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532031238446</updated>
-      <workItem from="1532031239986" duration="3950000" />
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <workItem from="1532031239986" duration="5012000" />
+=======
+      <workItem from="1532031239986" duration="291000" />
+>>>>>>> parent of 6223864... reduced smile level
+=======
+      <workItem from="1532031239986" duration="291000" />
+>>>>>>> parent of 6223864... reduced smile level
+=======
+      <workItem from="1532031239986" duration="176000" />
+>>>>>>> parent of 143ad28... Smile and blink = redirect
+=======
+      <workItem from="1532031239986" duration="176000" />
+>>>>>>> parent of 143ad28... Smile and blink = redirect
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="4400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="827" y="-1417" width="1279" height="1339" extended-state="0" />
+=======
+<<<<<<< HEAD
+<<<<<<< master
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="5012000" />
+=======
+    <option name="totallyTimeSpent" value="291000" />
+>>>>>>> parent of 6223864... reduced smile level
+=======
+    <option name="totallyTimeSpent" value="291000" />
+>>>>>>> parent of 6223864... reduced smile level
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="476" y="-1294" width="1636" height="1339" extended-state="0" />
+=======
+=======
+>>>>>>> parent of 143ad28... Smile and blink = redirect
+    <option name="totallyTimeSpent" value="176000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="128" y="-1088" width="1636" height="1339" extended-state="0" />
+<<<<<<< HEAD
+>>>>>>> parent of 143ad28... Smile and blink = redirect
+=======
+>>>>>>> parent of 143ad28... Smile and blink = redirect
+=======
+    <option name="totallyTimeSpent" value="3965000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="833" y="-1339" width="1279" height="1339" extended-state="0" />
+>>>>>>> added paragraph
+=======
+    <option name="totallyTimeSpent" value="3965000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="833" y="-1339" width="1279" height="1339" extended-state="0" />
+>>>>>>> development
+>>>>>>> 706684e0eb2f1237ac4903f30e07debedbc08d1a
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31978106" />
@@ -186,13 +496,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/BRFv4Demo.js">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/js/examples/face_tracking/restrict_to_center.js">
+=======
+=======
+>>>>>>> parent of 6223864... reduced smile level
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="107" column="2" lean-forward="true" selection-start-line="107" selection-start-column="2" selection-end-line="107" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+<<<<<<< HEAD
+<<<<<<< master
+<<<<<<< HEAD
+<<<<<<< HEAD
+        <state relative-caret-position="270">
+          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+=======
+        <state relative-caret-position="2490">
+          <caret line="166" lean-forward="true" selection-start-line="166" selection-end-line="166" />
+>>>>>>> added paragraph
+=======
+        <state relative-caret-position="2490">
+          <caret line="166" lean-forward="true" selection-start-line="166" selection-end-line="166" />
+>>>>>>> development
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 706684e0eb2f1237ac4903f30e07debedbc08d1a
+    <entry file="file://$PROJECT_DIR$/js/BRFv4Demo.js">
+>>>>>>> parent of 6223864... reduced smile level
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="45" lean-forward="true" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -203,15 +539,113 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/examples/face_tracking/restrict_to_center.js">
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="45" lean-forward="true" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+        <state relative-caret-position="300">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="uml://JavaScript-modules-diagram//Users/kevin_george/Desktop/FaceTracking/FaceTracking">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes>
+            <node x="0.0" y="690.0">$PROJECT_DIR$/js/BRFv4Demo.js</node>
+            <node x="0.0" y="286.0">$PROJECT_DIR$/js/BRFv4DemoMinimalImage.js</node>
+            <node x="450.0" y="285.0">$PROJECT_DIR$/js/BRFv4DemoMinimalWebcam.js</node>
+            <node x="262.0" y="319.0">$PROJECT_DIR$/js/utils/BRFv4Stats.js</node>
+            <node x="175.0" y="637.0">$PROJECT_DIR$/css/brfv4_examples_theme.css</node>
+            <node x="728.0" y="0.0">$PROJECT_DIR$/assets/brfv4_face_textures.js</node>
+            <node x="429.0" y="0.0">$PROJECT_DIR$/assets/brfv4_lion.png</node>
+            <node x="112.0" y="563.0">$PROJECT_DIR$/assets/brfv4_women_young.jpg</node>
+            <node x="796.0" y="178.0">$PROJECT_DIR$/face_texture_overlay.html</node>
+            <node x="152.0" y="763.0">$PROJECT_DIR$/index.html</node>
+            <node x="105.0" y="414.0">$PROJECT_DIR$/minimalImage.html</node>
+            <node x="374.0" y="406.0">$PROJECT_DIR$/minimalWebcam.html</node>
+            <node x="398.0" y="119.0">$PROJECT_DIR$/minimalWebcamPNGOverlay.html</node>
+            <node x="208.0" y="888.0">$PROJECT_DIR$/js/libs/createjs/preloadjs.min.js</node>
+            <node x="951.0" y="284.0">#</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="$PROJECT_DIR$/minimalWebcam.html" target="$PROJECT_DIR$/js/BRFv4DemoMinimalWebcam.js">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/face_texture_overlay.html" target="$PROJECT_DIR$/assets/brfv4_face_textures.js">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/minimalWebcamPNGOverlay.html" target="$PROJECT_DIR$/js/BRFv4DemoMinimalWebcam.js">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/minimalWebcam.html" target="$PROJECT_DIR$/js/utils/BRFv4Stats.js">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/index.html" target="$PROJECT_DIR$/css/brfv4_examples_theme.css">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/minimalWebcamPNGOverlay.html" target="$PROJECT_DIR$/assets/brfv4_lion.png">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/minimalImage.html" target="$PROJECT_DIR$/assets/brfv4_women_young.jpg">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/minimalImage.html" target="$PROJECT_DIR$/js/BRFv4DemoMinimalImage.js">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/index.html" target="$PROJECT_DIR$/js/BRFv4Demo.js">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/index.html" target="$PROJECT_DIR$/js/libs/createjs/preloadjs.min.js">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/minimalWebcamPNGOverlay.html" target="$PROJECT_DIR$/js/utils/BRFv4Stats.js">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/minimalImage.html" target="$PROJECT_DIR$/js/utils/BRFv4Stats.js">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="$PROJECT_DIR$/face_texture_overlay.html" target="#">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="119.0" y="92.0" />
+          <SelectedNodes>
+            <node>$PROJECT_DIR$/assets/brfv4_women_young.jpg</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/examples/face_tracking/smile_detection.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="146" column="67" selection-start-line="146" selection-start-column="67" selection-end-line="146" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/BRFv4Demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="615">
           <caret line="41" column="7" lean-forward="true" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
         </state>
@@ -221,6 +655,53 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="783">
           <caret line="166" lean-forward="true" selection-start-line="166" selection-end-line="166" />
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="198">
+          <caret line="124" column="37" selection-start-line="124" selection-start-column="37" selection-end-line="124" selection-end-column="37" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/utils/BRFv4SetupExample.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="821">
+          <caret line="175" column="41" selection-start-line="175" selection-end-line="176" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/js/examples/face_tracking/smile_detection.js">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< master
+        <state relative-caret-position="303">
+          <caret line="135" column="16" selection-start-line="135" selection-start-column="16" selection-end-line="143" selection-end-column="16" />
+>>>>>>> parent of 6223864... reduced smile level
+=======
+    <entry file="file://$PROJECT_DIR$/js/examples/face_tracking/smile_detection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="135" column="16" selection-start-line="135" selection-start-column="16" selection-end-line="143" selection-end-column="16" />
+>>>>>>> parent of 6223864... reduced smile level
+=======
+        <state relative-caret-position="105">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+>>>>>>> parent of 143ad28... Smile and blink = redirect
+=======
+        <state relative-caret-position="105">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+>>>>>>> parent of 143ad28... Smile and blink = redirect
+=======
+        <state relative-caret-position="480">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+>>>>>>> added paragraph
+=======
+        <state relative-caret-position="480">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+>>>>>>> development
+>>>>>>> 706684e0eb2f1237ac4903f30e07debedbc08d1a
         </state>
       </provider>
     </entry>
